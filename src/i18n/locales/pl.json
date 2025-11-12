@@ -1,0 +1,15 @@
+{
+  "welcome": "Witamy",
+  "login": "Zaloguj się",
+  "logout": "Wyloguj się",
+  "register": "Zarejestruj się",
+  "offers": "Oferty",
+  "addOffer": "Dodaj ofertę",
+  "dashboard": "Panel",
+  "reservations": "Rezerwacje",
+  "messages": "Wiadomości",
+  "notifications": "Powiadomienia",
+  "feedback": "Opinie",
+  "submit": "Wyślij",
+  "cancel": "Anuluj"
+}

@@ -1,0 +1,934 @@
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\App.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\MockInvoiceAPI.js
+  9:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\audit.js
+  14:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\healthcheck.js
+  19:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\messages.js
+  26:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockCMSData.js
+  10:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockDocuments.js
+  8:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockInvoices.js
+  26:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockLogsAPI.js
+  9:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockOrganization.js
+  9:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockUserSession.js
+  9:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\offers\search.controller.js
+  24:1  error  Parsing error: 'import' and 'export' may only appear at the top level
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\offers\search.routes.js
+  12:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\statsApi.js
+  4:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\translations\exportTranslations.ts
+  11:19  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\translations\importTranslations.ts
+  19:18  error  Parsing error: Unexpected token as
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\translations\validateTranslations.ts
+  12:23  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\usage.js
+  21:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\AddressInput.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\AdvancedFilterBar.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\AvailabilityCalendar.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\BranchSelector.jsx
+  7:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Card.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CategoryQuickFilter.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CategorySelector.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CennikSection.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CompanyStatsPanel.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ContractSender.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CsvBranchUploader.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Document\DocumentSignaturePanel.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\E-SignaturePanel.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\EquipmentReturnPanel.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Export\ExportButtonGroup.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Export\ExportDataPanel.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Export\ExportPanel.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\FilterBar.jsx
+  7:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Forms\DateRangePickerWithAvailability.jsx
+  25:4  error  Parsing error: Unexpected token ,
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\HelpCenterSection.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ImagesUploader.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Inbox\InboxMessageCard.tsx
+  2:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Invoice\InvoicePreview.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\LangSelector.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\LiveTextDebugger.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\LiveTextEditorWithAI.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\LiveTextProvider.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\TextCMSPanel.jsx
+  6:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\useLiveText.js
+  6:17  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LoadingSpinner.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LocationInput.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LogEntry.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\MessageItem.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ModerationPanel.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Navbar.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferCard.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferComponents\AdvancedFilterBar_audienceFilter_patch.jsx
+  5:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferComponents\OfferCard_audienceBadge_patch.jsx
+  5:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferComponents\OfferForm_audienceType_patch.jsx
+  5:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferDetails\OfferGallery.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferDetails\OfferSpecsList.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferFilters.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferForm.jsx
+  7:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferPinCard.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Offers\MapRadiusModal.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Offers\OfferMetaFields.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Offers\OffersGrid.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Offers\ShowOnMapButton.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Offers\SortDropdown.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PlanAccessControl.jsx
+  27:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PlanManagerUI.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Plans.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PrivateRoute.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PromotedOffers.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\QuickFiltersHome.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\RatingForm.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\RegionGuard.jsx
+  36:6  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ReportInbox.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\RequireAuth.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SearchBar.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SignatureBox.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Signature\SignatureMethodSelector.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Signature\SignatureStatusTag.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SkeletonCard.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SmsVerification.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\StripeStatusTag.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SupportForm.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\T.jsx
+  11:4  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ThemeManager.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\TopSearchBar.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\TranslationManager.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\ABTestDashboard.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\AdminAlertsPanel.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\AlertDashboard.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\AlertTag.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\AuditLog.jsx
+  22:12  error  'TableHeader' is not defined  react/jsx-no-undef
+  23:14  error  'TableRow' is not defined     react/jsx-no-undef
+  24:16  error  'TableHead' is not defined    react/jsx-no-undef
+  25:16  error  'TableHead' is not defined    react/jsx-no-undef
+  26:16  error  'TableHead' is not defined    react/jsx-no-undef
+  27:16  error  'TableHead' is not defined    react/jsx-no-undef
+  30:12  error  'TableBody' is not defined    react/jsx-no-undef
+  32:16  error  'TableRow' is not defined     react/jsx-no-undef
+  33:18  error  'TableCell' is not defined    react/jsx-no-undef
+  34:18  error  'TableCell' is not defined    react/jsx-no-undef
+  35:18  error  'TableCell' is not defined    react/jsx-no-undef
+  36:18  error  'TableCell' is not defined    react/jsx-no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\AuditTrailPanel.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\FeatureUsageDashboard.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\PromotionEditor.jsx
+  113:8  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\StagingControl.jsx
+  41:2  error  Parsing error: Unexpected token
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\SystemAlertSender.jsx
+  52:2  error  Parsing error: Unexpected token
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\TranslationsDashboard.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ai\AISuggestionPanel.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ai\AutoDescriptionModal.jsx
+  5:48  error  'onGenerate' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\analytics\BenchmarkChart.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\analytics\CTRChart.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\analytics\CompanyBenchmarkPanel.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\analytics\ReportsDashboard.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\BusinessProfileSetup.jsx
+  4:48  error  'onComplete' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\FeatureFlag.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\PlanGate.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\RegisterFormProvider.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\RegisterFormUser.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\TwoFactorSetupModal.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\TwoFactorVerifyModal.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\availability\AvailabilityCalendar.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\availability\DateRangePickerWithAvailability.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\availability\NearestAvailableOffer.jsx
+  6:49  error  'category' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\FeatureUsageLogger.jsx
+  10:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\FeedbackPrompt.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\FileUploader.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\LoginButton.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\LoginButton.original.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\SplitTestWrapper.jsx
+  12:4  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\SystemStatusWidget.jsx
+  25:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\dashboard\RecommendedAssetsPanel.jsx
+  4:50  error  'userId' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\dev\DevConsole.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\layouts\ClientLayout.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\layouts\ProviderLayout.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\BulkMessageModal.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\MessageButtonBar.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\MessageItem.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\MessagesPanel.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\ProviderInbox.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Coachmark.jsx
+  76:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\HintTrigger.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\OnboardingWizard.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step1Plan.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step2Company.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step3Branding.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step4Preferences.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step5Summary.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\WalkthroughModal.jsx
+  7:10  error  Parsing error: Identifier 'useTheme' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\patched\DashboardHeader_liveText_patch.jsx
+  7:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\patched\OfferCard_liveText_patch.jsx
+  7:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\patched\PlansPage_liveText_patch.jsx
+  7:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\pricing\PriceSuggestionPanel.jsx
+  4:48  error  'category' is missing in props validation  react/prop-types
+  4:58  error  'location' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\reservations\ReservationForm.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\reservations\ReservationModal.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\routing\ProtectedRoute.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\search\SmartSearchInput.jsx
+  4:44  error  'onQueryParsed' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\system\SystemStatusWidget.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\system\TopbarCounter.jsx
+  59:2  error  Parsing error: Unexpected token
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ImportThemeFromURL.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\LivePreviewRenderer.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\LiveThemePreviewSandbox.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\PresetSelector.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\SectionReorderPanel.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemeDesigner.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemeEditorPanel.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemePropEditor.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemeSettingsPanel.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemeVersionManager.jsx
+  16:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\BrandingPreview.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\CalloutBox.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\DocumentUploader.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\FeatureList.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\InvoiceStatusTag.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\Label.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\RoleTag.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\TextBlock.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\ThemeSwitcher.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\button.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\card.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\dialog.jsx
+  4:13  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\input.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\table.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\textarea.jsx
+  17:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\ActionHistoryContext.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\AdminContext.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\AuthContext.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\DemoModeProvider.tsx
+  6:10  error  Parsing error: Identifier 'useLiveText' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\LiveTextContext.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\LocaleContext.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\ThemeContext.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\core\system\AlertTriggerEngine.js
+  21:5  error  Parsing error: Missing catch or finally clause
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\core\system\BusinessRuleEngine.js
+  23:5  error  Parsing error: Missing catch or finally clause
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\core\system\SystemStatusWidget.jsx
+  49:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\data\categories.js
+  32:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\data\demoOffers.js
+  150:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\data\offersMock.js
+  46:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\filters\SavedFilterBar.jsx
+  45:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useAISuggestion.ts
+  29:3  error  Parsing error: Unexpected token
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useAlerts.ts
+  16:25  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useAnalytics.ts
+  7:30  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useCsvValidator.js
+  6:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useExperiment.js
+  16:2  error  Parsing error: Unexpected token ;
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useExport.ts
+  7:31  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useFeatureUsage.ts
+  24:8  error  Parsing error: Unexpected token )
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useLiveTheme.js
+  8:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useMessages.js
+  91:1  error  Parsing error: 'import' and 'export' may only appear at the top level
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useSystemStatus.js
+  19:8  error  Parsing error: Unexpected token )
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useTheme.js
+  5:14  error  Parsing error: Identifier 'useTheme' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\i18n\i18n.js
+  20:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\index.jsx
+  26:1  error  Parsing error: Unexpected token export
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\lib\utils.ts
+  5:29  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\modules\alerts.model.js
+  20:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\modules\contract\ContractArchiveTable.jsx
+  73:2  error  Parsing error: Unexpected token
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\modules\contract\SignatureConfirmation.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\AddOffer.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Auth.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\CompanyProfile.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\CompanyPublicPage.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Dashboard_old_not_in_use.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\EditProfile.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Favorites.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\FilterOffers.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\HelpCenter.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Home.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\InboxView.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Landing.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Login.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\MapView.jsx
+  27:1  error  Parsing error: Unexpected keyword 'import'
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Messages old.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Messages.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\NotFound.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\OfferDetails.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Offers.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\PlansPage.jsx
+  5:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\ProviderDashboard.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Rating.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Register.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\ResetPassword.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Stats.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\SubscriptionPlans.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\VerifyAccount.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminBillingPanel.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminCompanyList.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminDashboard.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminExportPanel.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminPanel.jsx
+  53:4  error  Parsing error: Unexpected token ,
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminRouter.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminTextsPage.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminUserList.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AuditLogPanel.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\BenchmarkCountryStats.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\BrandingPanel.jsx
+  29:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\CMSBlocksDemo.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ContractArchiveAdmin.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\CountryContextSwitcher.jsx
+  14:50  error  'country' is missing in props validation     react/prop-types
+  14:59  error  'setCountry' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ExportTemplateManager.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\InvoiceList.jsx
+  7:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\InvoiceViewer.jsx
+  6:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\LanguageManager.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\LiveActivityMonitor.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\MarketSettingsPanel.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ModerationInbox.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\OfferCreator.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\OnboardingWizard.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\OrganizationPanel.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\RegionScopeManager.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\SavedFilterBar.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\SecurityOverview.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\StagingControl.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\StatsOverviewPage.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\SystemAuditLog.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ThemeSettings.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ThemeSettingsDraftable.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\TimeRangeSelector.jsx
+  56:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\systemAlertSender.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\texts.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\contracts\ContractManager.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\contracts\ContractSender.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\contracts\ContractViewer.jsx
+  89:1  error  Parsing error: Unexpected token
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientDashboardWrapper.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientFavorites.jsx
+  6:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientInbox.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientReservationForm.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientReservations.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ContractArchive.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\Timeline.jsx
+  60:1  error  Parsing error: Unexpected token }
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\BenchmarkCountryStats.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\CompanyProfile.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\MyOffers.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\OfferCreate.jsx
+  69:1  error  Parsing error: Unexpected token
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\OfferEdit.jsx
+  37:16  error  Parsing error: Unexpected token )
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\PlanManager.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderCalendar.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderInbox.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderOffers.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderProfile.jsx
+  6:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderReservations.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderStats.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\SubscriptionHistory.jsx
+  29:4  error  Parsing error: Unexpected token ,
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\offers\OfferDetails.jsx
+  5:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\offers\OfferList.jsx
+  4:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\offers\OfferRouter.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\providers\ThemeProvider.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\routes\RequireAuth.jsx
+  3:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\routes\RouterConfig.jsx
+  2:8  error  Parsing error: Identifier 'React' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\routes\providerRoutes.js
+  52:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\server_patch_texts.js
+  5:38  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\types\context.d.ts
+  1:9  error  Parsing error: Unexpected token module
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\audit.log.js
+  21:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\constants.js
+  28:3  error  Parsing error: 'return' outside of function
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\generateDocumentPDF.ts
+  1:41  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\geoUtils.js
+  10:6  error  Parsing error: Unexpected token :
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\mapConfig.js
+  11:3  error  Parsing error: 'return' outside of function
+
+Ôťľ 319 problems (319 errors, 0 warnings)
+

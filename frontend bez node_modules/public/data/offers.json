@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Koparka CAT 320",
+    "location": {
+      "lat": 52.2297,
+      "lng": 21.0122
+    },
+    "companyName": "CAT Rental Polska",
+    "price": 1200,
+    "unit": "dzień",
+    "phone": "501123456",
+    "images": [
+      "/placeholder.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Podnośnik koszowy 15m",
+    "location": {
+      "lat": 52.2397,
+      "lng": 21.0199
+    },
+    "companyName": "SkyLift Mazowsze",
+    "price": 600,
+    "unit": "dzień",
+    "phone": "504987654",
+    "images": [
+      "/placeholder.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Wózek widłowy Toyota",
+    "location": {
+      "lat": 52.215,
+      "lng": 21.005
+    },
+    "companyName": "Forklift Experts",
+    "price": 350,
+    "unit": "dzień",
+    "phone": "500333777",
+    "images": [
+      "/placeholder.jpg"
+    ]
+  }
+]

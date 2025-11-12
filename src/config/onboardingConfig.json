@@ -1,0 +1,14 @@
+[
+  {
+    "targetId": "offer-form-button",
+    "message": "Dodaj swoją pierwszą ofertę – to pierwszy krok, by być widocznym!"
+  },
+  {
+    "targetId": "profile-settings",
+    "message": "Uzupełnij swój profil firmowy – zaufanie rośnie z pełnymi danymi."
+  },
+  {
+    "targetId": "client-inbox",
+    "message": "Odpowiadaj szybko na wiadomości – to poprawia konwersję."
+  }
+]

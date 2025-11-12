@@ -1,0 +1,1920 @@
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\App.jsx
+  2:10  error  'useTheme' is defined but never used     no-unused-vars
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\AppRoutes.jsx
+  2:10  error  'useTheme' is defined but never used     no-unused-vars
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\MockInvoiceAPI.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\ai.helper.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\alerts.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\analytics.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\audit.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\export.controller.js
+   3:10  error  'useTheme' is defined but never used     no-unused-vars
+   4:10  error  'useLiveText' is defined but never used  no-unused-vars
+   7:8   error  'fs' is defined but never used           no-unused-vars
+  36:21  error  'Buffer' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\healthcheck.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\messages.js
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:21  error  'useTheme' is not defined                   no-undef
+  25:1   error  'messages' is not defined                   no-undef
+  26:12  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockCMSData.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockDocuments.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockInvoices.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockLogsAPI.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockOrganization.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\mockUserSession.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\offer.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\offersApi.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\offers\search.controller.js
+  1:10  error  'useTheme' is defined but never used           no-unused-vars
+  2:10  error  'useLiveText' is defined but never used        no-unused-vars
+  7:36  error  'category' is assigned a value but never used  no-unused-vars
+  7:51  error  'dateFrom' is assigned a value but never used  no-unused-vars
+  7:61  error  'dateTo' is assigned a value but never used    no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\offers\search.routes.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\statsApi.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  3:33  error  'companyId' is defined but never used    no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\uploadSignedDocument.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\api\usage.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\AddressInput.jsx
+   1:10  error  'useLiveText' is defined but never used             no-unused-vars
+   5:11  error  'theme' is assigned a value but never used          no-unused-vars
+   6:8   error  'clsx' is defined but never used                    no-unused-vars
+   7:45  error  'getZipCode' is defined but never used              no-unused-vars
+  10:25  error  'onAddressSelected' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\AdvancedFilterBar.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\AvailabilityCalendar.jsx
+   1:10  error  'useLiveText' is defined but never used           no-unused-vars
+   6:11  error  'theme' is assigned a value but never used        no-unused-vars
+   7:8   error  'clsx' is defined but never used                  no-unused-vars
+  10:40  error  'start' is missing in props validation            react/prop-types
+  10:47  error  'end' is missing in props validation              react/prop-types
+  10:52  error  'availabilityMap' is missing in props validation  react/prop-types
+  10:69  error  'onSelect' is missing in props validation         react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\BranchSelector.jsx
+   1:10  error  'useLiveText' is defined but never used            no-unused-vars
+   8:11  error  'theme' is assigned a value but never used         no-unused-vars
+   9:8   error  'clsx' is defined but never used                   no-unused-vars
+  11:27  error  'branches' is missing in props validation          react/prop-types
+  11:37  error  'selectedBranchId' is missing in props validation  react/prop-types
+  11:55  error  'onChange' is missing in props validation          react/prop-types
+  23:19  error  'branches.map' is missing in props validation      react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CTRChart.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+  9:28  error  'data' is missing in props validation       react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Card.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  12:17  error  'id' is missing in props validation         react/prop-types
+  12:21  error  'title' is missing in props validation      react/prop-types
+  12:28  error  'price' is missing in props validation      react/prop-types
+  12:35  error  'location' is missing in props validation   react/prop-types
+  12:45  error  'imageUrl' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CategoryQuickFilter.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CategorySelector.jsx
+   1:10  error  'useLiveText' is defined but never used                 no-unused-vars
+   6:11  error  'theme' is assigned a value but never used              no-unused-vars
+   7:8   error  'clsx' is defined but never used                        no-unused-vars
+  37:29  error  'selectedCategories' is missing in props validation     react/prop-types
+  37:49  error  'setSelectedCategories' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CennikSection.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CompanyStatsPanel.jsx
+  7:33  error  Parsing error: Unterminated string constant
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ContractArchiveTable.jsx
+   2:10  error  'useLiveText' is defined but never used         no-unused-vars
+   5:11  error  'theme' is assigned a value but never used      no-unused-vars
+   6:8   error  'clsx' is defined but never used                no-unused-vars
+   8:40  error  'contracts' is missing in props validation      react/prop-types
+  22:22  error  'contracts.map' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ContractSender.jsx
+   1:10  error  'useLiveText' is defined but never used            no-unused-vars
+   2:27  error  'useEffect' is defined but never used              no-unused-vars
+   6:27  error  'reservations' is missing in props validation      react/prop-types
+   6:41  error  'templates' is missing in props validation         react/prop-types
+   6:52  error  'onSubmit' is missing in props validation          react/prop-types
+  19:23  error  'reservations.map' is missing in props validation  react/prop-types
+  25:20  error  'templates.map' is missing in props validation     react/prop-types
+  39:2   error  'DocumentSignaturePanel' is not defined            react/jsx-no-undef
+  42:11  error  'PropTypes' is not defined                         no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\CsvBranchUploader.jsx
+  9:33  error  Parsing error: Unterminated string constant
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\DrawerMenu.jsx
+  4:10  error  'useLiveText' is defined but never used     no-unused-vars
+  7:11  error  'theme' is assigned a value but never used  no-unused-vars
+  8:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\E-SignaturePanel.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+  3:10  error  'useEffect' is defined but never used    no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\EquipmentReturnPanel.jsx
+   2:10  error  'useLiveText' is defined but never used           no-unused-vars
+   5:11  error  'theme' is assigned a value but never used        no-unused-vars
+   6:8   error  'clsx' is defined but never used                  no-unused-vars
+   8:40  error  'reservation' is missing in props validation      react/prop-types
+   8:53  error  'onConfirmReturn' is missing in props validation  react/prop-types
+  13:50  error  'reservation._id' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Export\ExportButtonGroup.jsx
+  3:10  error  'useTheme' is defined but never used       no-unused-vars
+  4:10  error  'useLiveText' is defined but never used    no-unused-vars
+  8:30  error  'selected' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Export\ExportDataPanel.jsx
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\FilterBar.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   8:11  error  'theme' is assigned a value but never used  no-unused-vars
+   9:8   error  'clsx' is defined but never used            no-unused-vars
+  12:22  error  'filters' is missing in props validation    react/prop-types
+  12:31  error  'onSearch' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Forms\DateRangePickerWithAvailability.jsx
+   4:10  error  'useLiveText' is defined but never used                          no-unused-vars
+   7:11  error  'theme' is assigned a value but never used                       no-unused-vars
+   8:8   error  'clsx' is defined but never used                                 no-unused-vars
+  12:10  error  'isBefore' is defined but never used                             no-unused-vars
+  15:68  error  'value' is missing in props validation                           react/prop-types
+  15:75  error  'onChange' is missing in props validation                        react/prop-types
+  17:10  error  'hoverDate' is assigned a value but never used                   no-unused-vars
+  49:26  error  'value.start' is missing in props validation                     react/prop-types
+  49:42  error  'value.end' is missing in props validation                       react/prop-types
+  49:62  error  'value.start' is missing in props validation                     react/prop-types
+  49:79  error  'value.end' is missing in props validation                       react/prop-types
+  58:15  error  'value.start' is missing in props validation                     react/prop-types
+  58:31  error  'value.end' is missing in props validation                       react/prop-types
+  60:35  error  'value.start' is missing in props validation                     react/prop-types
+  60:41  error  'value.start.toLocaleDateString' is missing in props validation  react/prop-types
+  60:89  error  'value.end' is missing in props validation                       react/prop-types
+  60:93  error  'value.end.toLocaleDateString' is missing in props validation    react/prop-types
+  68:12  error  'PropTypes' is not defined                                       no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\HelpCenterSection.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ImagesUploader.jsx
+   1:10  error  'useLiveText' is defined but never used      no-unused-vars
+   5:11  error  'theme' is assigned a value but never used   no-unused-vars
+   6:8   error  'clsx' is defined but never used             no-unused-vars
+   8:27  error  'images' is missing in props validation      react/prop-types
+   8:35  error  'setImages' is missing in props validation   react/prop-types
+  31:17  error  'images.map' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Invoice\InvoicePreview.jsx
+  39:1  error  Parsing error: Unexpected token <
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\LangSelector.jsx
+  2:10  error  'useTheme' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\LiveTextDebugger.jsx
+  2:10  error  'useTheme' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\LiveTextEditorWithAI.jsx
+  2:10  error  'useTheme' is defined but never used       no-unused-vars
+  3:10  error  'useLiveText' is defined but never used    no-unused-vars
+  6:48  error  'label' is missing in props validation     react/prop-types
+  6:55  error  'value' is missing in props validation     react/prop-types
+  6:62  error  'onChange' is missing in props validation  react/prop-types
+  6:72  error  'lang' is missing in props validation      react/prop-types
+  6:78  error  'keyName' is missing in props validation   react/prop-types
+  6:87  error  'role' is missing in props validation      react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\LiveTextProvider.jsx
+   2:10  error  'useTheme' is defined but never used  no-unused-vars
+  34:13  error  'PropTypes' is not defined            no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\TextCMSPanel.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LiveTextCMS\useLiveText.js
+  2:10  error  'useTheme' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LoadingSpinner.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LocationInput.jsx
+  1:10  error  'useLiveText' is defined but never used        no-unused-vars
+  4:11  error  'theme' is assigned a value but never used     no-unused-vars
+  5:8   error  'clsx' is defined but never used               no-unused-vars
+  7:26  error  'defaultValue' is missing in props validation  react/prop-types
+  7:45  error  'onChange' is missing in props validation      react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\LogEntry.jsx
+  1:10  error  'useTheme' is defined but never used        no-unused-vars
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:21  error  'user' is missing in props validation       react/prop-types
+  6:27  error  'action' is missing in props validation     react/prop-types
+  6:35  error  'timestamp' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\MessageItem.jsx
+   2:10  error  'useLiveText' is defined but never used                      no-unused-vars
+   5:11  error  'theme' is assigned a value but never used                   no-unused-vars
+   6:8   error  'clsx' is defined but never used                             no-unused-vars
+  11:24  error  'message' is missing in props validation                     react/prop-types
+  11:33  error  'currentUserId' is missing in props validation               react/prop-types
+  11:48  error  'refresh' is missing in props validation                     react/prop-types
+  12:28  error  'message.senderId' is missing in props validation            react/prop-types
+  13:48  error  'message.pinned' is missing in props validation              react/prop-types
+  14:52  error  'message.archived' is missing in props validation            react/prop-types
+  15:42  error  'message.tag' is missing in props validation                 react/prop-types
+  18:46  error  'message._id' is missing in props validation                 react/prop-types
+  25:46  error  'message._id' is missing in props validation                 react/prop-types
+  32:46  error  'message._id' is missing in props validation                 react/prop-types
+  44:60  error  'message.subject' is missing in props validation             react/prop-types
+  61:61  error  'message.content' is missing in props validation             react/prop-types
+  63:18  error  'message.attachments' is missing in props validation         react/prop-types
+  63:31  error  'message.attachments.length' is missing in props validation  react/prop-types
+  65:22  error  'message.attachments' is missing in props validation         react/prop-types
+  65:34  error  'message.attachments.map' is missing in props validation     react/prop-types
+  75:80  error  'message.createdAt' is missing in props validation           react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\MobileNavBar.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  8:11  error  'theme' is assigned a value but never used  no-unused-vars
+  9:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ModerationPanel.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Navbar.jsx
+  25:79  error  Parsing error: Unexpected token `>`. Did you mean `&gt;` or `{">"}`?
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferCard.jsx
+   2:10  error  'useTheme' is defined but never used            no-unused-vars
+   6:37  error  'offer' is missing in props validation          react/prop-types
+  10:18  error  'offer.title' is missing in props validation    react/prop-types
+  11:14  error  'offer.b2bOnly' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferComponents\AdvancedFilterBar_audienceFilter_patch.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferComponents\OfferCard_audienceBadge_patch.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferComponents\OfferForm_audienceType_patch.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferDetails\OfferGallery.jsx
+   3:10  error  'useTheme' is defined but never used            no-unused-vars
+   4:10  error  'useLiveText' is defined but never used         no-unused-vars
+   7:25  error  'images' is missing in props validation         react/prop-types
+   8:25  error  'images.length' is missing in props validation  react/prop-types
+  12:15  error  'images.map' is missing in props validation     react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferDetails\OfferSpecsList.jsx
+   1:10  error  'useTheme' is defined but never used                 no-unused-vars
+   2:10  error  'useLiveText' is defined but never used              no-unused-vars
+   8:27  error  'offer' is missing in props validation               react/prop-types
+  11:24  error  'offer.price' is missing in props validation         react/prop-types
+  12:23  error  'offer.year' is missing in props validation          react/prop-types
+  13:31  error  'offer.location' is missing in props validation      react/prop-types
+  14:26  error  'offer.status' is missing in props validation        react/prop-types
+  15:29  error  'offer.priority' is missing in props validation      react/prop-types
+  16:32  error  'offer.audienceType' is missing in props validation  react/prop-types
+  17:27  error  'offer.aiTags' is missing in props validation        react/prop-types
+  17:35  error  'offer.aiTags.join' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferFilters.jsx
+   2:10  error  'useTheme' is defined but never used              no-unused-vars
+   6:40  error  'filters' is missing in props validation          react/prop-types
+   6:49  error  'setFilters' is missing in props validation       react/prop-types
+  13:28  error  'filters.b2bOnly' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferForm.jsx
+   1:10  error  'useTheme' is defined but never used               no-unused-vars
+   2:8   error  'FileUploader' is defined but never used           no-unused-vars
+   7:37  error  'formData' is missing in props validation          react/prop-types
+   7:47  error  'setFormData' is missing in props validation       react/prop-types
+  20:29  error  'formData.b2bOnly' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\OfferPinCard.jsx
+   1:10  error  'useLiveText' is defined but never used                  no-unused-vars
+   4:11  error  'theme' is assigned a value but never used               no-unused-vars
+   5:8   error  'clsx' is defined but never used                         no-unused-vars
+   8:25  error  'offer' is missing in props validation                   react/prop-types
+   8:32  error  'index' is missing in props validation                   react/prop-types
+  11:33  error  'offer.id' is missing in props validation                react/prop-types
+  13:18  error  'offer.title' is missing in props validation             react/prop-types
+  16:18  error  'offer.category' is missing in props validation          react/prop-types
+  17:18  error  'offer.location' is missing in props validation          react/prop-types
+  17:28  error  'offer.location.address' is missing in props validation  react/prop-types
+  19:16  error  'offer.year' is missing in props validation              react/prop-types
+  21:35  error  'offer.year' is missing in props validation              react/prop-types
+  24:16  error  'offer.price' is missing in props validation             react/prop-types
+  26:20  error  'offer.price' is missing in props validation             react/prop-types
+  26:37  error  'offer.unit' is missing in props validation              react/prop-types
+  26:55  error  'offer.unit' is missing in props validation              react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Offers\MapRadiusModal.jsx
+  3:10  error  'useTheme' is defined but never used      no-unused-vars
+  4:10  error  'useLiveText' is defined but never used   no-unused-vars
+  7:27  error  'onApply' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Offers\OffersGrid.jsx
+   1:10  error  'useTheme' is defined but never used         no-unused-vars
+   2:10  error  'useLiveText' is defined but never used      no-unused-vars
+   8:23  error  'offers' is missing in props validation      react/prop-types
+  11:15  error  'offers.map' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Offers\ShowOnMapButton.jsx
+  3:10  error  'useTheme' is defined but never used       no-unused-vars
+  4:10  error  'useLiveText' is defined but never used    no-unused-vars
+  7:28  error  'location' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PlanAccessControl.jsx
+   4:10  error  'useLiveText' is defined but never used         no-unused-vars
+   7:11  error  'theme' is assigned a value but never used      no-unused-vars
+   8:8   error  'clsx' is defined but never used                no-unused-vars
+  11:30  error  'requiredPlans' is missing in props validation  react/prop-types
+  11:60  error  'fallback' is missing in props validation       react/prop-types
+  30:13  error  'PropTypes' is not defined                      no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PlanManagerUI.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PlanSelector.jsx
+  2:10  error  'useLiveText' is defined but never used         no-unused-vars
+  5:11  error  'theme' is assigned a value but never used      no-unused-vars
+  6:8   error  'clsx' is defined but never used                no-unused-vars
+  8:32  error  'setActivePlan' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\Plans.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  61:11  error  'user' is assigned a value but never used   no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PrivateRoute.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+   9:35  error  'role' is missing in props validation       react/prop-types
+  26:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\PromotedOffers.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ProviderDashboard.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  8:11  error  'theme' is assigned a value but never used  no-unused-vars
+  9:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\QuickFiltersHome.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\RatingForm.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+  8:30  error  'onSubmit' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\RegionGuard.jsx
+   4:10  error  'useLiveText' is defined but never used               no-unused-vars
+   5:10  error  'getRegionFromCoordinates' is defined but never used  no-unused-vars
+   8:11  error  'theme' is assigned a value but never used            no-unused-vars
+   9:8   error  'clsx' is defined but never used                      no-unused-vars
+  12:24  error  'lat' is missing in props validation                  react/prop-types
+  12:29  error  'lng' is missing in props validation                  react/prop-types
+  12:34  error  'branchVoivodeship' is missing in props validation    react/prop-types
+  12:53  error  'onValidChange' is missing in props validation        react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ReportInbox.jsx
+  7:43  error  Parsing error: Unterminated string constant
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\RequireAuth.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  10:34  error  'role' is missing in props validation       react/prop-types
+  27:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ReservationStatusTimeline.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  18:45  error  'status' is missing in props validation     react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SearchBar.jsx
+   1:10  error  'useLiveText' is defined but never used            no-unused-vars
+   4:11  error  'theme' is assigned a value but never used         no-unused-vars
+   5:8   error  'clsx' is defined but never used                   no-unused-vars
+  10:22  error  'onLocationSelect' is missing in props validation  react/prop-types
+  13:18  error  'setRadius' is assigned a value but never used     no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SignatureBox.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+  8:32  error  'onSigned' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SkeletonCard.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SmsVerification.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+  8:28  error  'onSuccess' is missing in props validation  react/prop-types
+  8:39  error  'onCancel' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\StripeStatusTag.jsx
+   1:10  error  'useTheme' is defined but never used     no-unused-vars
+   2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  12:28  error  'status' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\SupportForm.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+  8:31  error  'onSubmit' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\T.jsx
+  7:30  error  Parsing error: Unterminated string constant
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ThemeManager.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  17:32  error  'onSave' is missing in props validation     react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ThemePreview.jsx
+   2:10  error  'useLiveText' is defined but never used            no-unused-vars
+   5:11  error  'theme' is assigned a value but never used         no-unused-vars
+   6:8   error  'clsx' is defined but never used                   no-unused-vars
+   8:32  error  'theme' is missing in props validation             react/prop-types
+  13:32  error  'theme.background' is missing in props validation  react/prop-types
+  14:22  error  'theme.text' is missing in props validation        react/prop-types
+  15:36  error  'theme.primary' is missing in props validation     react/prop-types
+  21:41  error  'theme.primary' is missing in props validation     react/prop-types
+  28:41  error  'theme.secondary' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\TopSearchBar.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\TranslationManager.jsx
+  7:26  error  Parsing error: Unterminated string constant
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\ABTestDashboard.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\AdminAlertsPanel.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\AlertTag.jsx
+  16:23  error  Parsing error: Expecting Unicode escape sequence \uXXXX
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\AuditLog.jsx
+  9:10  error  Parsing error: Identifier 'Table' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\CTRAlertTriggerButton.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  18:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  19:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  20:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  23:18  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\ExportDataPanel.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+  16:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  17:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  18:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  24:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  29:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  30:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  32:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\FirmBenchmarkDashboard.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\FirmPositionTag.jsx
+  1:10  error  'useTheme' is defined but never used       no-unused-vars
+  2:10  error  'useLiveText' is defined but never used    no-unused-vars
+  5:28  error  'position' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\PromotionEditor.jsx
+  9:10  error  Parsing error: Identifier 'Card' has already been declared
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\StagingControl.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\SystemAlertSender.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   7:11  error  'theme' is assigned a value but never used  no-unused-vars
+   8:8   error  'clsx' is defined but never used            no-unused-vars
+  30:14  error  'e' is defined but never used               no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\admin\TranslationsDashboard.jsx
+  2:10  error  'useTheme' is defined but never used     no-unused-vars
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ai\AutoDescriptionModal.jsx
+   1:10  error  'useLiveText' is defined but never used      no-unused-vars
+   5:11  error  'theme' is assigned a value but never used   no-unused-vars
+   6:8   error  'clsx' is defined but never used             no-unused-vars
+   8:48  error  'onGenerate' is missing in props validation  react/prop-types
+  26:5   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  27:7   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  28:7   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  35:7   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  43:9   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  44:11  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  45:11  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  46:13  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\analytics\CTRChart.jsx
+   1:10  error  'useTheme' is defined but never used     no-unused-vars
+   2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  10:36  error  'data' is missing in props validation    react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\analytics\CompanyBenchmarkPanel.jsx
+   1:10  error  'useTheme' is defined but never used     no-unused-vars
+   2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  40:12  error  'PropTypes' is not defined               no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\BusinessProfileSetup.jsx
+   1:10  error  'useLiveText' is defined but never used      no-unused-vars
+   4:11  error  'theme' is assigned a value but never used   no-unused-vars
+   5:8   error  'clsx' is defined but never used             no-unused-vars
+   7:48  error  'onComplete' is missing in props validation  react/prop-types
+  24:5   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  25:7   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  27:7   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  28:9   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  29:9   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  34:11  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  35:11  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  36:11  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  37:11  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  41:7   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  42:9   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  43:9   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  45:13  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  46:15  error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  65:7   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  66:9   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  67:9   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+  76:7   error  'React' must be in scope when using JSX      react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\FeatureFlag.jsx
+   1:10  error  'useTheme' is defined but never used     no-unused-vars
+   2:10  error  'useLiveText' is defined but never used  no-unused-vars
+   3:8   error  'React' is defined but never used        no-unused-vars
+   6:24  error  'flag' is missing in props validation    react/prop-types
+  14:13  error  'PropTypes' is not defined               no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\PlanGate.jsx
+   1:10  error  'useLiveText' is defined but never used    no-unused-vars
+   6:21  error  'required' is missing in props validation  react/prop-types
+  30:13  error  'PropTypes' is not defined                 no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\RegisterFormProvider.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\RegisterFormUser.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\TwoFactorSetupModal.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\auth\TwoFactorVerifyModal.jsx
+  1:10  error  'useTheme' is defined but never used        no-unused-vars
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:33  error  'phone' is missing in props validation      react/prop-types
+  6:40  error  'onSuccess' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\availability\AvailabilityCalendar.jsx
+  3:10  error  'useTheme' is defined but never used             no-unused-vars
+  4:10  error  'useLiveText' is defined but never used          no-unused-vars
+  7:33  error  'availableDates' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\availability\DateRangePickerWithAvailability.jsx
+  3:10  error  'useTheme' is defined but never used             no-unused-vars
+  4:10  error  'useLiveText' is defined but never used          no-unused-vars
+  7:44  error  'availableDates' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\availability\NearestAvailableOffer.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  10:49  error  'category' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\calendar\CalendarSyncSettings.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+  22:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  23:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  24:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  27:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  28:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  31:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\AIInspectorPanel.jsx
+   1:10  error  'useTheme' is defined but never used                  no-unused-vars
+   2:10  error  'useLiveText' is defined but never used               no-unused-vars
+   5:29  error  'result' is missing in props validation               react/prop-types
+  10:55  error  'result.qualityScore' is missing in props validation  react/prop-types
+  11:47  error  'result.tier' is missing in props validation          react/prop-types
+  12:47  error  'result.flags' is missing in props validation         react/prop-types
+  12:53  error  'result.flags.join' is missing in props validation    react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\AlertTag.jsx
+   1:10  error  'useTheme' is defined but never used           no-unused-vars
+   2:10  error  'useLiveText' is defined but never used        no-unused-vars
+  13:21  error  'type' is missing in props validation          react/prop-types
+  16:16  error  'type.replace' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\AuditTrailView.jsx
+  1:10  error  'useTheme' is defined but never used       no-unused-vars
+  2:10  error  'useLiveText' is defined but never used    no-unused-vars
+  6:27  error  'entity' is missing in props validation    react/prop-types
+  6:35  error  'entityId' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\Coachmark.jsx
+   1:10  error  'useTheme' is defined but never used      no-unused-vars
+   2:10  error  'useLiveText' is defined but never used   no-unused-vars
+   5:32  error  'active' is missing in props validation   react/prop-types
+   5:40  error  'message' is missing in props validation  react/prop-types
+  21:13  error  'PropTypes' is not defined                no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\ExportButton.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  6:25  error  'type' is missing in props validation    react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\FeatureUsageLogger.jsx
+   1:10  error  'useTheme' is defined but never used     no-unused-vars
+   2:10  error  'useLiveText' is defined but never used  no-unused-vars
+   4:31  error  'feature' is defined but never used      no-unused-vars
+  11:13  error  'PropTypes' is not defined               no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\FeedbackPrompt.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\FileUploader.jsx
+  1:10  error  'useTheme' is defined but never used       no-unused-vars
+  2:10  error  'useLiveText' is defined but never used    no-unused-vars
+  6:25  error  'onUpload' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\LanguageSwitcher.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\LivePreviewRenderer.jsx
+   1:10  error  'useTheme' is defined but never used     no-unused-vars
+   2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  19:13  error  'PropTypes' is not defined               no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\LoginButton.jsx
+  2:10  error  'useTheme' is defined but never used     no-unused-vars
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\LoginButton.original.jsx
+  2:10  error  'useTheme' is defined but never used     no-unused-vars
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\MobileNotificationButton.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\NotificationBell.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\SplitTestWrapper.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  3:8   error  'React' is defined but never used        no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\StatusIndicator.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  5:28  error  'status' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\SystemStatusWidget.jsx
+  5:29  error  Parsing error: Unterminated string constant
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\ThemeVersionManager.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\UndoRedoToolbar.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\common\WalkthroughModal.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\dashboard\RecommendedAssetsPanel.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+   7:50  error  'userId' is missing in props validation     react/prop-types
+  22:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  23:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  25:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  27:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  29:13  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  33:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\dev\DevConsole.jsx
+   1:10  error  'useLiveText' is defined but never used  no-unused-vars
+  43:7   error  'process' is not defined                 no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\home\NeedHelpStarter.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+  11:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  12:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  13:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  16:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\insights\PopularSearchInsights.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\layouts\ClientLayout.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  23:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\layouts\ProviderLayout.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  23:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\BulkMessageModal.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\MessageButtonBar.jsx
+  7:30  error  Parsing error: Unterminated string constant
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\MessageItem.jsx
+   1:10  error  'useLiveText' is defined but never used                      no-unused-vars
+   6:11  error  'theme' is assigned a value but never used                   no-unused-vars
+   7:8   error  'clsx' is defined but never used                             no-unused-vars
+  11:24  error  'message' is missing in props validation                     react/prop-types
+  13:38  error  'message.senderId' is missing in props validation            react/prop-types
+  23:33  error  'message.sender' is missing in props validation              react/prop-types
+  23:41  error  'message.sender.name' is missing in props validation         react/prop-types
+  25:52  error  'message.content' is missing in props validation             react/prop-types
+  26:16  error  'message.attachments' is missing in props validation         react/prop-types
+  26:29  error  'message.attachments.length' is missing in props validation  react/prop-types
+  28:20  error  'message.attachments' is missing in props validation         react/prop-types
+  28:32  error  'message.attachments.map' is missing in props validation     react/prop-types
+  43:27  error  'message.createdAt' is missing in props validation           react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\MessagesPanel.jsx
+   1:10  error  'useLiveText' is defined but never used        no-unused-vars
+   4:10  error  'useTheme' is defined but never used           no-unused-vars
+   7:26  error  'messages' is missing in props validation      react/prop-types
+  13:9   error  'theme' is not defined                         no-undef
+  16:53  error  'theme' is not defined                         no-undef
+  18:19  error  'messages.map' is missing in props validation  react/prop-types
+  21:51  error  'theme' is not defined                         no-undef
+  23:43  error  'theme' is not defined                         no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\messages\ProviderInbox.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Coachmark.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  27:44  error  'userId' is missing in props validation     react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\OnboardingWizard.jsx
+   2:10  error  'useTheme' is defined but never used         no-unused-vars
+   3:10  error  'useLiveText' is defined but never used      no-unused-vars
+  19:44  error  'onComplete' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step1Plan.jsx
+  2:10  error  'useTheme' is defined but never used   no-unused-vars
+  6:37  error  'next' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step2Company.jsx
+  2:10  error  'useTheme' is defined but never used   no-unused-vars
+  6:40  error  'next' is missing in props validation  react/prop-types
+  6:46  error  'prev' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step3Branding.jsx
+  2:10  error  'useTheme' is defined but never used   no-unused-vars
+  6:41  error  'next' is missing in props validation  react/prop-types
+  6:47  error  'prev' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step4Preferences.jsx
+  2:10  error  'useTheme' is defined but never used   no-unused-vars
+  6:44  error  'next' is missing in props validation  react/prop-types
+  6:50  error  'prev' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\Step5Summary.jsx
+  2:10  error  'useTheme' is defined but never used         no-unused-vars
+  7:40  error  'prev' is missing in props validation        react/prop-types
+  7:46  error  'onComplete' is defined but never used       no-unused-vars
+  7:46  error  'onComplete' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\onboarding\WalkthroughModal.jsx
+  8:44  error  'userId' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\patched\DashboardHeader_liveText_patch.jsx
+  1:10  error  'useTheme' is defined but never used                 no-unused-vars
+  2:8   error  'React' is defined but never used                    no-unused-vars
+  5:7   error  'dashboardTitle' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\patched\OfferCard_liveText_patch.jsx
+  1:10  error  'useTheme' is defined but never used           no-unused-vars
+  2:8   error  'React' is defined but never used              no-unused-vars
+  5:7   error  'b2bLabel' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\patched\PlansPage_liveText_patch.jsx
+  1:10  error  'useTheme' is defined but never used             no-unused-vars
+  2:8   error  'React' is defined but never used                no-unused-vars
+  5:7   error  'plansTitle' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\patched\TopSearchBar_liveText_patch.jsx
+  1:10  error  'useTheme' is defined but never used              no-unused-vars
+  2:8   error  'React' is defined but never used                 no-unused-vars
+  5:7   error  'placeholder' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\pricing\PriceSuggestionPanel.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+   7:48  error  'category' is missing in props validation   react/prop-types
+   7:58  error  'location' is missing in props validation   react/prop-types
+  24:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  25:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  26:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  34:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  35:31  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\reservations\ReservationForm.jsx
+  1:10  error  'useTheme' is defined but never used       no-unused-vars
+  9:28  error  'onSubmit' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\reservations\ReservationModal.jsx
+   1:10  error  'useLiveText' is defined but never used   no-unused-vars
+   8:52  error  'onClose' is missing in props validation  react/prop-types
+  34:11  error  'PropTypes' is not defined                no-undef
+  35:12  error  'PropTypes' is not defined                no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\routing\ProtectedRoute.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+  22:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\search\SmartSearchInput.jsx
+   1:10  error  'useLiveText' is defined but never used         no-unused-vars
+   4:11  error  'theme' is assigned a value but never used      no-unused-vars
+   5:8   error  'clsx' is defined but never used                no-unused-vars
+   7:44  error  'onQueryParsed' is missing in props validation  react/prop-types
+  24:5   error  'React' must be in scope when using JSX         react/react-in-jsx-scope
+  25:7   error  'React' must be in scope when using JSX         react/react-in-jsx-scope
+  32:7   error  'React' must be in scope when using JSX         react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\system\TopbarCounter.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ImportThemeFromURL.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  15:14  error  'e' is defined but never used               no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\LivePreviewRenderer.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\LiveThemePreviewSandbox.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\PresetSelector.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\SectionReorderPanel.jsx
+  1:10  error  'useLiveText' is defined but never used           no-unused-vars
+  4:11  error  'theme' is assigned a value but never used        no-unused-vars
+  9:9   error  'updateOrder' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemeDesigner.jsx
+  1:10  error  'useLiveText' is defined but never used        no-unused-vars
+  6:11  error  'theme' is assigned a value but never used     no-unused-vars
+  9:11  error  'theme' is assigned a value but never used     no-unused-vars
+  9:18  error  'setTheme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemeEditorPanel.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemePropEditor.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemeSettingsPanel.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\theme\ThemeVersionManager.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\BrandingPreview.jsx
+  6:3  error  Parsing error: Unexpected token return
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\CalloutBox.jsx
+  1:10  error  'useTheme' is defined but never used      no-unused-vars
+  2:10  error  'useLiveText' is defined but never used   no-unused-vars
+  6:23  error  'message' is missing in props validation  react/prop-types
+  6:32  error  'tone' is missing in props validation     react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\DocumentUploader.jsx
+  1:10  error  'useTheme' is defined but never used       no-unused-vars
+  2:10  error  'useLiveText' is defined but never used    no-unused-vars
+  5:29  error  'onUpload' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\FeatureList.jsx
+  7:3  error  Parsing error: Unexpected token return
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\InvoiceStatusTag.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  6:29  error  'status' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\Label.jsx
+   1:10  error  'useTheme' is defined but never used        no-unused-vars
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  11:25  error  'htmlFor' is missing in props validation    react/prop-types
+  11:44  error  'className' is missing in props validation  react/prop-types
+  28:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\RoleTag.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  6:20  error  'role' is missing in props validation    react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\TextBlock.jsx
+  1:10  error  'useTheme' is defined but never used          no-unused-vars
+  2:10  error  'useLiveText' is defined but never used       no-unused-vars
+  6:22  error  'title' is missing in props validation        react/prop-types
+  6:29  error  'description' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\ThemeSwitcher.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\button.jsx
+   2:10  error  'useTheme' is defined but never used        no-unused-vars
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:19  error  'children' is missing in props validation   react/prop-types
+   6:29  error  'onClick' is missing in props validation    react/prop-types
+   6:38  error  'className' is missing in props validation  react/prop-types
+   6:54  error  'type' is missing in props validation       react/prop-types
+  25:1   error  'button' is not defined                     no-undef
+  26:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\card.jsx
+   2:10  error  'useTheme' is defined but never used        no-unused-vars
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:17  error  'children' is missing in props validation   react/prop-types
+   6:27  error  'className' is missing in props validation  react/prop-types
+  16:1   error  'card' is not defined                       no-undef
+  17:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\dialog.jsx
+   7:19  error  'children' is missing in props validation   react/prop-types
+  17:25  error  'className' is missing in props validation  react/prop-types
+  17:36  error  'children' is missing in props validation   react/prop-types
+  25:43  error  'className' is missing in props validation  react/prop-types
+  58:25  error  'className' is missing in props validation  react/prop-types
+  62:25  error  'className' is missing in props validation  react/prop-types
+  66:41  error  'className' is missing in props validation  react/prop-types
+  67:11  error  't' is assigned a value but never used      no-unused-vars
+  78:47  error  'className' is missing in props validation  react/prop-types
+  97:1   error  'dialog' is not defined                     no-undef
+  98:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\input.jsx
+   1:10  error  'useTheme' is defined but never used        no-unused-vars
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  17:18  error  'labelKey' is missing in props validation   react/prop-types
+  17:28  error  'className' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\table.jsx
+   2:10  error  'useTheme' is defined but never used          no-unused-vars
+   3:10  error  'useLiveText' is defined but never used       no-unused-vars
+   6:18  error  'headers' is missing in props validation      react/prop-types
+   6:27  error  'rows' is missing in props validation         react/prop-types
+   6:33  error  'className' is missing in props validation    react/prop-types
+  11:20  error  'headers.map' is missing in props validation  react/prop-types
+  17:15  error  'rows.map' is missing in props validation     react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\components\ui\textarea.jsx
+  1:10  error  'useTheme' is defined but never used          no-unused-vars
+  2:10  error  'useLiveText' is defined but never used       no-unused-vars
+  5:45  error  'placeholder' is missing in props validation  react/prop-types
+  5:58  error  'value' is missing in props validation        react/prop-types
+  5:65  error  'onChange' is missing in props validation     react/prop-types
+  5:75  error  'className' is missing in props validation    react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\ActionHistoryContext.jsx
+   1:10  error  'useTheme' is defined but never used          no-unused-vars
+   2:10  error  'useLiveText' is defined but never used       no-unused-vars
+  16:7   error  Unexpected lexical declaration in case block  no-case-declarations
+  23:7   error  Unexpected lexical declaration in case block  no-case-declarations
+  34:41  error  'children' is missing in props validation     react/prop-types
+  47:13  error  'PropTypes' is not defined                    no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\AdminContext.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  11:33  error  'children' is missing in props validation   react/prop-types
+  44:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\AuthContext.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+   9:32  error  'children' is missing in props validation   react/prop-types
+  44:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\LiveTextContext.jsx
+  18:36  error  'children' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\LocaleContext.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  16:34  error  'children' is missing in props validation   react/prop-types
+  37:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\context\ThemeContext.jsx
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\core\system\AlertTriggerEngine.js
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\core\system\BusinessRuleEngine.js
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\core\system\SystemStatusWidget.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  21:24  error  'ok' is missing in props validation         react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\data\categories.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\data\demoOffers.js
+  4:3  error  Parsing error: Unexpected keyword 'const'
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\data\offersMock.js
+  4:3  error  Parsing error: Unexpected keyword 'const'
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\filters\SavedFilterBar.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  11:42  error  'onApply' is missing in props validation    react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useAlertScan.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useAuditTrail.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useBranding.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useCsvValidator.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useExperiment.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useExport.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useFavorites.js
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  32:12  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useFilters.js
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useFirmAnalytics.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useIsMobile.js
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useLiveTheme.js
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useLocationSearch.js
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useMessages.js
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useNotifications.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useOnboarding.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\usePlanAccess.js
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useSystemStatus.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useTheme.js
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useTranslate.js
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:21  error  'useTheme' is not defined                   no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useTwoFactor.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useUndoRedo.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\hooks\useUserPlan.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\i18n\i18n.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\index.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\modules\alerts.model.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\modules\contract\ContractArchiveTable.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  25:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  26:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  28:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  30:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  40:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  41:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  42:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  43:13  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  44:15  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  45:15  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  46:15  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  47:15  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  48:15  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  51:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  53:15  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  54:17  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  55:17  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  56:17  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  57:17  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  58:17  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  59:19  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  72:30  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\modules\contract\ContractWidget.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  27:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  31:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  32:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\modules\contract\SignatureConfirmation.jsx
+  1:10  error  'useLiveText' is defined but never used      no-unused-vars
+  6:11  error  'theme' is assigned a value but never used   no-unused-vars
+  6:21  error  'useTheme' is not defined                    no-undef
+  8:49  error  'signerName' is missing in props validation  react/prop-types
+  8:61  error  'signedAt' is missing in props validation    react/prop-types
+  8:71  error  'ipAddress' is missing in props validation   react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\AddOffer.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\AdminPanel.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  7:11  error  'theme' is assigned a value but never used  no-unused-vars
+  8:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Auth.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\CompanyProfile.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\CompanyPublicPage.jsx
+   1:10  error  'useLiveText' is defined but never used        no-unused-vars
+   8:11  error  'theme' is assigned a value but never used     no-unused-vars
+   9:8   error  'clsx' is defined but never used               no-unused-vars
+  14:10  error  'calculateDistance' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Dashboard_old_not_in_use.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\EditProfile.jsx
+   1:10  error  'useLiveText' is defined but never used             no-unused-vars
+   6:11  error  'theme' is assigned a value but never used          no-unused-vars
+   7:8   error  'clsx' is defined but never used                    no-unused-vars
+  10:8   error  'Papa' is defined but never used                    no-unused-vars
+  11:8   error  'AddressInput' is defined but never used            no-unused-vars
+  12:8   error  'CategorySelector' is defined but never used        no-unused-vars
+  24:10  error  'categories' is assigned a value but never used     no-unused-vars
+  24:22  error  'setCategories' is assigned a value but never used  no-unused-vars
+  25:10  error  'locations' is assigned a value but never used      no-unused-vars
+  25:21  error  'setLocations' is assigned a value but never used   no-unused-vars
+  27:9   error  'handleChange' is assigned a value but never used   no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Favorites.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\FilterOffers.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\HelpCenter.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Home.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\InboxView.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Landing.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Login.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\MapView.jsx
+   3:10  error  'useTheme' is defined but never used           no-unused-vars
+   4:10  error  'useLiveText' is defined but never used        no-unused-vars
+   5:38  error  'useRef' is defined but never used             no-unused-vars
+  13:10  error  'calculateDistance' is defined but never used  no-unused-vars
+  27:23  error  'process' is not defined                       no-undef
+  99:12  error  'PropTypes' is not defined                     no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Messages old.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Messages.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\NotFound.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\OfferDetails.jsx
+    3:10  error  'useLiveText' is defined but never used     no-unused-vars
+    6:11  error  'theme' is assigned a value but never used  no-unused-vars
+    7:8   error  'clsx' is defined but never used            no-unused-vars
+   25:16  error  'err' is defined but never used             no-unused-vars
+  108:2   error  'DocumentSignaturePanel' is not defined     react/jsx-no-undef
+  111:11  error  'PropTypes' is not defined                  no-undef
+  112:12  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Offers.jsx
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\OnboardingPath.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  27:5   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  28:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  30:7   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  31:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  36:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  37:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  38:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  39:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  42:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  44:13  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  45:15  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  62:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  70:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  79:9   error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  80:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  81:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  83:15  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  86:11  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+  87:13  error  'React' must be in scope when using JSX     react/react-in-jsx-scope
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\PlansPage.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\ProviderDashboard.jsx
+  3:10  error  'useTheme' is defined but never used      no-unused-vars
+  4:10  error  'useLiveText' is defined but never used   no-unused-vars
+  5:17  error  'useContext' is defined but never used    no-unused-vars
+  6:10  error  'ThemeContext' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Rating.jsx
+   1:10  error  'useLiveText' is defined but never used        no-unused-vars
+   5:11  error  'theme' is assigned a value but never used     no-unused-vars
+   6:8   error  'clsx' is defined but never used               no-unused-vars
+  23:19  error  'starId' is defined but never used             no-unused-vars
+  23:19  error  'starId' is missing in props validation        react/prop-types
+  23:27  error  'onMouseEnter' is missing in props validation  react/prop-types
+  23:41  error  'onMouseLeave' is missing in props validation  react/prop-types
+  23:55  error  'onClick' is missing in props validation       react/prop-types
+  23:64  error  'selected' is missing in props validation      react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Register.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\ResetPassword.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\Stats.jsx
+    1:10  error  'useLiveText' is defined but never used     no-unused-vars
+    6:11  error  'theme' is assigned a value but never used  no-unused-vars
+    7:8   error  'clsx' is defined but never used            no-unused-vars
+  150:21  error  'title' is missing in props validation      react/prop-types
+  150:28  error  'value' is missing in props validation      react/prop-types
+  150:35  error  'color' is missing in props validation      react/prop-types
+  150:42  error  'tooltip' is missing in props validation    react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\SubscriptionPlans.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  61:11  error  'user' is assigned a value but never used   no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\VerifyAccount.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminBillingPanel.jsx
+   1:10  error  'useLiveText' is defined but never used  no-unused-vars
+  22:16  error  'err' is defined but never used          no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminCompanyList.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  8:11  error  'theme' is assigned a value but never used  no-unused-vars
+  9:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminDashboard.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminExportPanel.jsx
+  2:10  error  'useTheme' is defined but never used     no-unused-vars
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminPanel.jsx
+  4:10  error  'useLiveText' is defined but never used     no-unused-vars
+  7:11  error  'theme' is assigned a value but never used  no-unused-vars
+  8:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminRouter.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminTextsPage.jsx
+  2:10  error  'useTheme' is defined but never used     no-unused-vars
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminThemePanel.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AdminUserList.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   8:11  error  'theme' is assigned a value but never used  no-unused-vars
+   9:8   error  'clsx' is defined but never used            no-unused-vars
+  23:16  error  'err' is defined but never used             no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\AuditLogPanel.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\BenchmarkCountryStats.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\BrandingPanel.jsx
+   2:10  error  'useTheme' is defined but never used          no-unused-vars
+   3:10  error  'useLiveText' is defined but never used       no-unused-vars
+  12:16  error  'setFont' is assigned a value but never used  no-unused-vars
+  13:16  error  'setLogo' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\CMSBlocksDemo.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ContractArchiveAdmin.jsx
+  114:1  error  Parsing error: Unexpected token <
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\CountryContextSwitcher.jsx
+   1:10  error  'useLiveText' is defined but never used      no-unused-vars
+   7:11  error  'theme' is assigned a value but never used   no-unused-vars
+   8:8   error  'clsx' is defined but never used             no-unused-vars
+  18:50  error  'country' is missing in props validation     react/prop-types
+  18:59  error  'setCountry' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ExportTemplateManager.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  7:11  error  'theme' is assigned a value but never used  no-unused-vars
+  8:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\InvoiceList.jsx
+   2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  44:2   error  'DocumentSignaturePanel' is not defined  react/jsx-no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\InvoiceViewer.jsx
+   1:10  error  'useLiveText' is defined but never used  no-unused-vars
+  33:2   error  'DocumentSignaturePanel' is not defined  react/jsx-no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\LanguageManager.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  7:11  error  'theme' is assigned a value but never used  no-unused-vars
+  8:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\LiveActivityMonitor.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\MarketSettingsPanel.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ModerationInbox.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\OfferCreator.jsx
+   3:10  error  'useTheme' is defined but never used     no-unused-vars
+   4:10  error  'useLiveText' is defined but never used  no-unused-vars
+  36:12  error  'PropTypes' is not defined               no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\OnboardingWizard.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\OrganizationPanel.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\RegionScopeManager.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\SavedFilterBar.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   6:11  error  'theme' is assigned a value but never used  no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  10:42  error  'onApply' is missing in props validation    react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\SecurityOverview.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\StagingControl.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\StatsOverviewPage.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\SystemAuditLog.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ThemeSettings.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\ThemeSettingsDraftable.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\TimeRangeSelector.jsx
+   3:10  error  'useLiveText' is defined but never used        no-unused-vars
+   6:11  error  'theme' is assigned a value but never used     no-unused-vars
+   7:8   error  'clsx' is defined but never used               no-unused-vars
+  22:45  error  'range' is missing in props validation         react/prop-types
+  22:52  error  'setRange' is missing in props validation      react/prop-types
+  35:44  error  'range.preset' is missing in props validation  react/prop-types
+  46:95  error  'range.from' is missing in props validation    react/prop-types
+  50:93  error  'range.to' is missing in props validation      react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\systemAlertSender.jsx
+  3:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  7:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\admin\texts.jsx
+  2:10  error  'useTheme' is defined but never used     no-unused-vars
+  3:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\contracts\ContractManager.jsx
+  80:1  error  Parsing error: Unexpected token <
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\contracts\ContractSender.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\contracts\ContractViewer.jsx
+  91:1  error  Parsing error: Unexpected token <
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientDashboardWrapper.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientFavorites.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientInbox.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientReservationForm.jsx
+  3:10  error  'useTheme' is defined but never used             no-unused-vars
+  4:10  error  'useLiveText' is defined but never used          no-unused-vars
+  7:34  error  'availableDates' is missing in props validation  react/prop-types
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ClientReservations.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\ContractArchive.jsx
+   1:10  error  'useLiveText' is defined but never used  no-unused-vars
+  39:2   error  'DocumentSignaturePanel' is not defined  react/jsx-no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\client\Timeline.jsx
+   3:10  error  'useLiveText' is defined but never used     no-unused-vars
+   7:8   error  'clsx' is defined but never used            no-unused-vars
+  24:45  error  'status' is missing in props validation     react/prop-types
+  25:11  error  'theme' is assigned a value but never used  no-unused-vars
+  63:11  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\BenchmarkCountryStats.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  7:11  error  'theme' is assigned a value but never used  no-unused-vars
+  8:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\CompanyProfile.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\MyOffers.jsx
+  1:10  error  'useLiveText' is defined but never used  no-unused-vars
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:8   error  'clsx' is defined but never used         no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\OfferCreate.jsx
+  71:1  error  Parsing error: Unexpected token <
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\OfferEdit.jsx
+  94:1  error  Parsing error: Unexpected token <
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\PlanManager.jsx
+   3:10  error  'useLiveText' is defined but never used        no-unused-vars
+   6:11  error  'theme' is assigned a value but never used     no-unused-vars
+   7:8   error  'clsx' is defined but never used               no-unused-vars
+  51:9   error  'navigate' is assigned a value but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderCalendar.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+   9:18  error  'isBefore' is defined but never used        no-unused-vars
+  25:14  error  'err' is defined but never used             no-unused-vars
+  50:14  error  'err' is defined but never used             no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderInbox.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderOffers.jsx
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  5:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderProfile.jsx
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderReservations.jsx
+   2:10  error  'useLiveText' is defined but never used     no-unused-vars
+   5:11  error  'theme' is assigned a value but never used  no-unused-vars
+   6:8   error  'clsx' is defined but never used            no-unused-vars
+  19:16  error  'err' is defined but never used             no-unused-vars
+  30:14  error  'err' is defined but never used             no-unused-vars
+  47:14  error  'err' is defined but never used             no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\ProviderStats.jsx
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  5:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:8   error  'clsx' is defined but never used            no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\dashboard\provider\SubscriptionHistory.jsx
+   4:10  error  'useLiveText' is defined but never used     no-unused-vars
+   7:11  error  'theme' is assigned a value but never used  no-unused-vars
+   8:8   error  'clsx' is defined but never used            no-unused-vars
+  17:47  error  'userId' is missing in props validation     react/prop-types
+  26:16  error  'err' is defined but never used             no-unused-vars
+  47:14  error  'err' is defined but never used             no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\offers\OfferDetails.jsx
+    1:10  error  'useLiveText' is defined but never used     no-unused-vars
+    7:11  error  'theme' is assigned a value but never used  no-unused-vars
+    8:8   error  'clsx' is defined but never used            no-unused-vars
+   25:16  error  'err' is defined but never used             no-unused-vars
+  108:2   error  'DocumentSignaturePanel' is not defined     react/jsx-no-undef
+  111:11  error  'PropTypes' is not defined                  no-undef
+  112:12  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\offers\OfferList.jsx
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\pages\offers\OfferRouter.jsx
+   1:10  error  'useTheme' is defined but never used     no-unused-vars
+   2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  20:2   error  'DocumentSignaturePanel' is not defined  react/jsx-no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\providers\ThemeProvider.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   4:21  error  'useTheme' is not defined                   no-undef
+   5:44  error  'children' is missing in props validation   react/prop-types
+  10:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\routes\RequireAuth.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+   9:34  error  'roles' is missing in props validation      react/prop-types
+  27:13  error  'PropTypes' is not defined                  no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\routes\RouterConfig.jsx
+   1:10  error  'useLiveText' is defined but never used     no-unused-vars
+   4:11  error  'theme' is assigned a value but never used  no-unused-vars
+   5:8   error  'clsx' is defined but never used            no-unused-vars
+   6:25  error  'Navigate' is defined but never used        no-unused-vars
+  39:11  error  'user' is assigned a value but never used   no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\routes\providerRoutes.js
+  3:10  error  'useTheme' is defined but never used     no-unused-vars
+  4:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\server_patch_texts.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  5:21  error  'require' is not defined                 no-undef
+  6:1   error  'app' is not defined                     no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\AvailabilityUtils.js
+  2:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  4:21  error  'useTheme' is not defined                   no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\InvoiceGenerator.js
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  4:21  error  'useTheme' is not defined                   no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\alert.engine.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\audit.log.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\calculateDistance.js
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  4:11  error  'theme' is assigned a value but never used  no-unused-vars
+  4:21  error  'useTheme' is not defined                   no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\constants.js
+  11:3  error  Parsing error: Unexpected token const
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\distance.js
+  1:10  error  'useLiveText' is defined but never used     no-unused-vars
+  6:11  error  'theme' is assigned a value but never used  no-unused-vars
+  6:21  error  'useTheme' is not defined                   no-undef
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\geoUtils.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+  4:47  error  'lon' is defined but never used          no-unused-vars
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\mapConfig.js
+  4:3  error  Parsing error: Unexpected keyword 'const'
+
+C:\B2B\APP\b2b_rental_app_structure_final\frontend\src\utils\themeStorage.js
+  1:10  error  'useTheme' is defined but never used     no-unused-vars
+  2:10  error  'useLiveText' is defined but never used  no-unused-vars
+
+Ôťľ 1233 problems (1233 errors, 0 warnings)
+

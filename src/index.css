@@ -1,0 +1,15 @@
+/* tailwindcss */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 🔒 Globalna poprawka: wymuszenie czarnego tekstu i białego tła w polach tekstowych */
+input[type="text"] {
+  color: black !important;
+  background-color: white !important;
+  caret-color: black !important;
+}
+
+input::placeholder {
+  color: #6b7280 !important; /* Tailwind placeholder-gray-500 */
+}

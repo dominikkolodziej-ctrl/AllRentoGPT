@@ -1,0 +1,10 @@
+POST http://localhost:5000/api/messages/send
+Content-Type: application/json
+
+{
+  "senderId": "1234567890abcdef12345678",
+  "receiverId": "abcdef1234567890abcdef12",
+  "offerId": "123abc",
+  "subject": "Test",
+  "content": "To jest testowa wiadomość."
+}
